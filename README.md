@@ -54,15 +54,6 @@ The notebook uses a prompt-based AI system to simulate a full-scale software dev
 - **Educational Tool**: Learn about the software development lifecycle and how different roles contribute to building a software system.
 - **Custom Software Solutions**: Generate tailored software solutions by simply specifying the requirements in the prompt.
 
-## Example Prompts
-
-Here are a few example prompts that the notebook can work with:
-
-- "Build a simple to-do list web application with authentication."
-- "Create an e-commerce website with payment gateway integration and user management."
-- "Develop a mobile app for tracking fitness goals with daily progress reports."
-- "Design a data analytics dashboard for visualizing sales trends over time."
-
 ## How to Use
 
 1. **Open the Jupyter Notebook**: Clone or download the repository and open the notebook in a Jupyter environment.
@@ -75,34 +66,7 @@ Here are a few example prompts that the notebook can work with:
 
 5. **Iterate as Needed**: If you need to adjust the scope or requirements, modify the prompt and re-run the cells to generate an updated solution.
 
-## Example Workflow
-
-1. **Prompt**: "Create a basic contact management system with search and filter functionalities."
-2. **Outputs**:
-   - **Requirements**: A detailed software specification.
-   - **Design**: UML diagrams and system architecture.
-   - **Code**: Python/HTML/CSS code for the backend and frontend.
-   - **Testing**: Unit tests and validation scripts.
-   - **Documentation**: User manual and technical documentation.
-   - **Project Management**: Project timeline and task breakdown.
-
-## Future Enhancements
-
-- **Support for Agile Methodology**: Incorporate Agile workflows, enabling iterative development rather than the strict Waterfall model.
-- **Interactive Feedback**: Allow users to interact with the AI agents, providing feedback and adjusting the project in real-time.
-- **Advanced Role Customization**: Allow users to customize the behavior and responsibilities of each AI role for more advanced project setups.
-- **Cross-Platform Integration**: Enable integration with cloud services or APIs for larger-scale projects.
 
 ## License
 
 This project is open-source and available under the MIT License. Feel free to contribute, fork, or modify the project as needed.
-
-## Acknowledgments
-
-- **OpenAI**: For providing the AI agents that drive the entire software development process.
-- **Jupyter Notebook**: For offering an interactive platform to execute and visualize the process.
-- **Python**: For scripting and handling the automation of each SDLC phase.
-
----
-
-This project showcases how AI can automate the entire software development process, from requirements gathering to deployment and management. By simply providing a prompt, users can generate complex software systems using the Waterfall methodology. Happy experimenting with AI-driven software development!
